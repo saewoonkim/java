@@ -9,7 +9,7 @@ public class Ex2_5 {
 		System.out.println(x-y);
 		System.out.println(x*y);
 		System.out.println(x/y);
-		
-	}
-}
 
+	}
+
+}
